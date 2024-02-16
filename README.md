@@ -5,3 +5,7 @@
 <div align= "right">
 oal chavos
 </div>
+
+<div align= "left">
+adios chavos
+</div>
