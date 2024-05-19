@@ -1,4 +1,4 @@
-# Sistema bancario utilizando el paradigma de programación orientada a objetos
+# Clase Banco, esta clase hereda de la clase Persona, y tiene como atributos el numero de cuenta, la clave y el saldo de la cuenta
 from Persona import Persona
 import random
 

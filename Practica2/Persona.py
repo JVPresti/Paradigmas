@@ -1,3 +1,4 @@
+# Clase Persona, esta clase tiene como atributos el nombre, apellido paterno, apellido materno, correo, contraseña, telefono y fecha de nacimiento
 class Persona:
 
     name = ""
